@@ -1,7 +1,7 @@
 Name:       ngfd-settings-nemo
 
 Summary:    NGFD configuration for Nemo
-Version:    0.0.1
+Version:    0.0.2
 Release:    1
 Group:      System/Library
 License:    LGPL 2.1
